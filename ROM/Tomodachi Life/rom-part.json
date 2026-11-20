@@ -1,0 +1,7 @@
+{
+  "romName": "game.cci",
+  "pattern": "./part/game.cci.part{index:3}",
+  "startIndex": 1,
+  "count": 6,
+  "digits": 3
+}
